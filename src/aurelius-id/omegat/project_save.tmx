@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_unknown" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Book I</seg>
+      </tuv>
+      <tuv lang="ID" changeid="apg" changedate="20221229T125021Z" creationid="apg" creationdate="20221229T125021Z">
+        <seg>Buku I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From my grandfather Verus&lt;a0&gt;1&lt;/a0&gt; I learned good morals and the government of my temper.</seg>
+      </tuv>
+      <tuv lang="ID" changeid="apg" changedate="20221229T145817Z" creationid="apg" creationdate="20221229T145817Z">
+        <seg>Dari kakekku Verus&lt;a0&gt;1&lt;/a0&gt;Aku belajar moral baik dan pengelolaan emosiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>From the reputation and remembrance of my father,&lt;a0&gt;2&lt;/a0&gt; modesty and a manly character.</seg>
+      </tuv>
+      <tuv lang="ID" changeid="apg" changedate="20221229T145903Z" creationid="apg" creationdate="20221229T145903Z">
+        <seg>Dari reputasi dan memori akan ayahku,&lt;a0&gt;2&lt;/a0&gt; modesty and a manly character.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,17 +1,17 @@
-1/21/23, 2:24 PM
+1/23/23, 3:49 PM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
 Total:           	    2460	52183	                     238172	                       286660	    17	
-Remaining:       	    2453	51911	                     236899	                       285128	    17	
+Remaining:       	    2451	51713	                     235970	                       284006	    17	
 Unique:          	    2209	51946	                     235998	                       284461	    17	
-Unique Remaining:	    2202	51674	                     234725	                       282929	    17	
+Unique Remaining:	    2200	51476	                     233796	                       281807	    17	
 
 
 Individual File Statistics:
 
 File Name        	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
-book-1.xhtml     	            67	                60	             67	                       60	       2921	           2649	        2921	                  2649	                            13645	                                12372	                             13645	                                       12372	                              16422	                                  14890	                               16422	                                         14890	
+book-1.xhtml     	            67	                58	             67	                       58	       2921	           2451	        2921	                  2451	                            13645	                                11443	                             13645	                                       11443	                              16422	                                  13768	                               16422	                                         13768	
 book-10.xhtml    	           173	               173	            170	                      170	       4559	           4559	        4554	                  4554	                            20086	                                20086	                             20050	                                       20050	                              24414	                                  24414	                               24378	                                         24378	
 book-11.xhtml    	           143	               143	            140	                      140	       3870	           3870	        3865	                  3865	                            17138	                                17138	                             17102	                                       17102	                              20812	                                  20812	                               20776	                                         20776	
 book-12.xhtml    	           126	               126	            123	                      123	       3133	           3133	        3128	                  3128	                            14141	                                14141	                             14105	                                       14105	                              17104	                                  17104	                               17068	                                         17068	

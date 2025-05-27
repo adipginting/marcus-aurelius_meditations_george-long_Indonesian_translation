@@ -1,86 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_unknown" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="EN-US">
         <seg>Book I</seg>
       </tuv>
-      <tuv lang="id" changeid="apg" changedate="20221229T125021Z" creationid="apg" creationdate="20221229T125021Z">
+      <tuv lang="ID" changeid="apg" changedate="20221229T125021Z" creationid="apg" creationdate="20221229T125021Z">
         <seg>Buku I</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
-        <seg>From Apollonius&lt;a0&gt;7&lt;/a0&gt; I learned freedom of will and undeviating steadiness of purpose; and to look to nothing else, not even for a moment, except to reason; and to be always the same, in sharp pains, on the occasion of the loss of a child, and in long illness; and to see clearly in a living example that the same man can be both most resolute and yielding, and not peevish in giving his instruction; and to have had before my eyes a man who clearly considered his experience and his skill in expounding philosophical principles as the smallest of his merits; and from him I learned how to receive from friends what are esteemed favours, without being either humbled by them or letting them pass unnoticed.</seg>
-      </tuv>
-      <tuv lang="id" changeid="apg" changedate="20250527T012935Z" creationid="apg" creationdate="20250526T173100Z">
-        <seg>Dari Apollonius, Aku belajar mengenai kehendak bebas dan keteguhan yang tak tergoyahkan dari tujuan; dan tidak melihat ke arah lain , walaupun hanya sebentar kecuali dengan alasan yang benar. Tidak berubah, di tengah kesakitan, ketika kehilangan anak, dan ketika sakit dalam masa yang lama. Untuk melihat secara jelas bahwa seseorang dapat menjadi tegas dan mengalah, dan tidak memberikan arahan disertai rasa kesal. Juga, agar ada di hadapanku, seseorang yang menganggap pengalaman dan kemampuannya dalam menjabarkan prinsip-prinsip filsafat sebagai tidak perlu dibesar-besarkan. Kemudian, dari dia Aku belajar cara untuk menerima bantuan dari teman, tanpa merasa direndahkan atau tidak menghiraukannya.   </seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
+      <tuv lang="EN-US">
         <seg>From Diognetus,&lt;a0&gt;5&lt;/a0&gt; not to busy myself about trifling things, and not to give credit to what was said by miracle-workers and jugglers about incantations and the driving away of daemons and such things; and not to breed quails for fighting, nor to give myself up passionately to such things; and to endure freedom of speech; and to have become intimate with philosophy; and to have been a hearer, first of Bacchius, then of Tandasis and Marcianus; and to have written dialogues in my youth; and to have desired a plank bed and skin, and whatever else of the kind belongs to the Grecian discipline.</seg>
       </tuv>
-      <tuv lang="id" changeid="apg" changedate="20230121T072336Z" creationid="apg" creationdate="20230121T071349Z">
+      <tuv lang="ID" changeid="apg" changedate="20230121T072336Z" creationid="apg" creationdate="20230121T071349Z">
         <seg>Dari Diogentus, &lt;a0&gt;5&lt;/a0&gt; untuk menyibukkan diriku dengan hal-hal remeh, dan tidak memberikan pujian kepada perkataan pekerja mujizat dan pemain sulap mengenai mantra dan pengusiran roh dan hal-hal serupa; dan tidak memelihara burung puyuh untuk bertarung, juga agar tidak dengan semangat mengikuti hal-hal yang serupa dengan hal tersebut; dan agar tahan terhadap kebebasan berpendapat; dan agar dekat dengan filsafat; dan agar tidak mendengar ajaran Bacchius, Tandasis, dan Marcianus; dan agar menuliskan catatan harian dalam bentuk dialog di masa mudaku; dan agar menginginkan tempat tidur papan dan kulit yang terbuat dari papan, dan apa pun yang terkait dengan kedisplinan Grecian.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="EN-US">
         <seg>From Rusticus&lt;a0&gt;6&lt;/a0&gt; I received the impression that my character required improvement and discipline; and from him I learned not to be led astray to sophistic emulation, nor to writing on speculative matters, nor to delivering little hortatory orations, nor to showing myself off as a man who practises much discipline, or does benevolent acts in order to make a display; and to abstain from rhetoric, and poetry, and fine writing; and not to walk about in the house in my outdoor dress, nor to do other things of the kind; and to write my letters with simplicity, like the letter which Rusticus wrote from Sinuessa to my mother; and with respect to those who have offended me by words, or done me wrong, to be easily disposed to be pacified and reconciled, as soon as they have shown a readiness to be reconciled; and to read carefully, and not to be satisfied with a superficial understanding of a book; nor hastily to give my assent to those who talk overmuch; and I am indebted to him for being acquainted with the discourses of Epictetus, which he communicated to me out of his own collection.</seg>
       </tuv>
-      <tuv lang="id" changeid="apg" changedate="20230123T084852Z" creationid="apg" creationdate="20230123T084426Z">
+      <tuv lang="ID" changeid="apg" changedate="20230123T084852Z" creationid="apg" creationdate="20230123T084426Z">
         <seg>Dari Rusticus&lt;a0&gt;6&lt;/a0&gt;, Aku paham bahwa karakterku butuh kemajuan dan kedisiplinan; dan dari dia, Aku belajar agar tidak mengikuti para sofis, juga agar tidak menuliskan hal-hal spekulatif, juga tidak suka berpidato di muka umum, juga tidak memamerkan diriku sebagai orang yang mempraktikkan disiplin yang ketat, atau melakukan hal-hal baik supaya dilihat orang lain; dan agar tidak terlibat dalam orasi, puisi, karya sastra; dan tidak menggunakan pakaian mewah di rumah, dan juga tidak mengikuti hal-hal sejenisnya; dan agar menulis surat dengan sederhana, seperti surat yang ditulis oleh Rusticus dari Sinuessa untuk ibuku; dan menghormati orang-orang yang kata-katanya membuat Aku tersinggung, atau yang memperlakukanku dengan salah, agar mudah mengalah untuk didamaikan atau direkonsiliasi, paling cepat setelah mereka memperlihatkan kesiapan untuk direkonsiliasi; dan untuk membaca dengan hati-hati, dan tidak puas dengan pemahaman yang dangkal pada sebuah buku; dan tidak terburu-buru memberikan persetujuan pada orang yang bicara berlebihan; dan aku berhutang kepadanya sebab ia memberikan Aku Diskursus Epictetus dari koleksi pribadinya. </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="EN-US">
         <seg>From my governor, to be neither of the green nor of the blue party at the games in the Circus, nor a partisan either of the Parmularius or the Scutarius at the gladiators’ fights; from him too I learned endurance of labour, and to want little, and to work with my own hands, and not to meddle with other people’s affairs, and not to be ready to listen to slander.</seg>
       </tuv>
-      <tuv lang="id" changeid="apg" changedate="20230121T070357Z" creationid="apg" creationdate="20230121T070357Z">
+      <tuv lang="ID" changeid="apg" changedate="20230121T070357Z" creationid="apg" creationdate="20230121T070357Z">
         <seg>Dari gubernurku, agar tidak menjadi pendukung tim hijau atau tim biru pada pertandingan tertentu, juga tidak menjadi pendukung Parmularius dan Scutarius pada pertandingan gladiator; dari dia juga Aku belajar agar tabah dalam bekerja, dan punya sedikit keinginan, dan mengurusi urusanku sendiri, dan tidak ikut campur urusan orang lain, dan agar siap mendengar fitnah.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="EN-US">
         <seg>From my grandfather Verus&lt;a0&gt;1&lt;/a0&gt; I learned good morals and the government of my temper.</seg>
       </tuv>
-      <tuv lang="id" changeid="apg" changedate="20221229T145817Z" creationid="apg" creationdate="20221229T145817Z">
+      <tuv lang="ID" changeid="apg" changedate="20221229T145817Z" creationid="apg" creationdate="20221229T145817Z">
         <seg>Dari kakekku Verus&lt;a0&gt;1&lt;/a0&gt;Aku belajar moral baik dan pengelolaan emosiku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="EN-US">
         <seg>From my great-grandfather,&lt;a0&gt;4&lt;/a0&gt; not to have frequented public schools, and to have had good teachers at home, and to know that on such things a man should spend liberally.</seg>
       </tuv>
-      <tuv lang="id" changeid="apg" changedate="20230121T065914Z" creationid="apg" creationdate="20230121T065914Z">
+      <tuv lang="ID" changeid="apg" changedate="20230121T065914Z" creationid="apg" creationdate="20230121T065914Z">
         <seg>Dari kakek buyutku,&lt;a0&gt;4&lt;/a0&gt; tidak sering mengunjungi sekolah-sekolah umum, dan untuk memiliki guru yang baik di rumah, dan untuk mengetahui bagaimana orang seharusnya menghabiskan waktu. </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="EN-US">
         <seg>From my mother,&lt;a0&gt;3&lt;/a0&gt; piety and beneficence, and abstinence, not only from evil deeds, but even from evil thoughts; and further, simplicity in my way of living, far removed from the habits of the rich.</seg>
       </tuv>
-      <tuv lang="id" changeid="apg" changedate="20230121T040834Z" creationid="apg" creationdate="20230121T040834Z">
+      <tuv lang="ID" changeid="apg" changedate="20230121T040834Z" creationid="apg" creationdate="20230121T040834Z">
         <seg>Dari ibuku, &lt;a0&gt;3&lt;/a0&gt; kesalehan dan kedermawanan, dan berpantang, tidak hanya dari perilaku jahat, tapi juga dari pikiran buruk; dan lebih jauh lagi, kesederhanaan dalam gaya hidup yang jauh dari kebiasaan orang kaya.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="EN-US">
         <seg>From the reputation and remembrance of my father,&lt;a0&gt;2&lt;/a0&gt; modesty and a manly character.</seg>
       </tuv>
-      <tuv lang="id" changeid="apg" changedate="20230121T035334Z" creationid="apg" creationdate="20221229T145903Z">
+      <tuv lang="ID" changeid="apg" changedate="20230121T035334Z" creationid="apg" creationdate="20221229T145903Z">
         <seg>Melalui reputasi dan peringatan akan ayahku,&lt;a0&gt;2&lt;/a0&gt; kesederhanaan dan karakter berani. </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="en-US">
+      <tuv lang="EN-US">
         <seg>endnotes.xhtml#note-7</seg>
       </tuv>
-      <tuv lang="id" changeid="apg" changedate="20230123T084506Z" creationid="apg" creationdate="20230123T084506Z">
+      <tuv lang="ID" changeid="apg" changedate="20230123T084506Z" creationid="apg" creationdate="20230123T084506Z">
         <seg>rednotes.xhtml#note-7</seg>
       </tuv>
     </tu>
